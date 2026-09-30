@@ -17,6 +17,6 @@ La ejecución de los scripts requiere Perl, sus módulos y un servidor configura
 
 ## Alcance
 
-Esta es una entrega parcial. La [entrega posterior](https://github.com/JheraldC/TFinal) contiene operaciones adicionales; se conserva el historial académico de ambas.
+Esta es una entrega parcial. La [entrega posterior](https://github.com/JheraldC/trabajo-academico-articulos-perl-cgi) contiene operaciones adicionales; se conserva el historial académico de ambas.
 
 El repositorio conserva un ejercicio académico. La documentación describe el uso previsto; no certifica una ejecución reciente ni resultados de rendimiento.
